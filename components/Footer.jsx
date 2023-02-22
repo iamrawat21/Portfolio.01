@@ -19,9 +19,9 @@ const Footer = () => (
           Let's make something great.
         </h4>
         <button type="button" className="flex items-center h-fit py-4 px-10 bg-[#25618B] rounded-[32px] gap-[12px]">
-          <a href="https://drive.google.com/file/d/1dXrTw5NM_u_VwKSkyMfoKh2XPQEG96dz/view?usp=sharing" className="flex item-center">
+          <a href="https://drive.google.com/file/d/1x5EjRMTs8wtrC_CxN9luXFkCRYu3EFBL/view?usp=sharing" className="flex item-center">
             <span className="font-normal text-[16px] text-white">
-              My CV
+              My Resume
             </span>
           </a>
         </button>
