@@ -68,7 +68,7 @@ export const insights = [
     imgUrl: '/planet-07.png',
     title: 'HeadZone Audio Ecommerce Website ',
     subtitle:
-        'The ability to add and edit products on the go using a Sanity, all advanced cart, and checkout functionalities.',
+        'An ecommerce website allows users to search and filter products, add them to a cart, log in or create an account, and adjust product quantity. These features provide a smooth and convenient shopping experience for users. ',
         arrowType: '/arrow-2.svg',
         link: 'https://headzone.netlify.app',
         

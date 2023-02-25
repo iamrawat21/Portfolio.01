@@ -37,7 +37,7 @@ const Footer = () => (
           {/* <p className="font-normal text-[14px] text-white opacity-50">
             Copyright © 2022. All rights reserved.
           </p> */}
-
+/Home.png
           <div className="flex gap-4">
             {socials.map((social) => (
               <a key={social.name} href={social.linkFooter}>
